@@ -1,6 +1,6 @@
 {
-  "players": {},
-  "ket_sat": {},
+  "players": {bimax},
+  "ket_sat": {10000000000000000000000000},
   "history_tai_xiu": [],
   "history_mini_poker": []
 }
