@@ -1,6 +1,12 @@
 {
-  "players": {bimax},
-  "ket_sat": {10000000000000000000000000},
-  "history_tai_xiu": [],
-  "history_mini_poker": []
+  "players": {
+    "namvip": 500000000,
+    "admin": 500000000
+  },
+  "ket_sat": {
+    "namvip": 3000000,
+    "admin": 100000000
+  },
+  "history_tai_xiu": [...],
+  "history_mini_poker": [...]
 }
